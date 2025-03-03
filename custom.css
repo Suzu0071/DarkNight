@@ -4,11 +4,17 @@
 	--color-3: #000000;
 	--color-4: #000000;
 	--color-5: #a2d2ff;
-    --color-6: #111111;
-    --color-7: #858585;
-	--v-error-base: var(--color-7);
-	--v-primary-base: var(--color-7);
+    	--color-6: #111111;
+    	--color-7: #858585;
+    	--color-8: #111111;
+	--v-error-base: var(--color-2);
+	--v-primary-base: var(--color-2);
 	overflow-x: hidden;
+}
+
+.font-weight-bold.btnHomeAxis.btnGroup.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default.primary{
+  color: #000000 !important;
+  background-color: #ffffff !important;
 }
 
 .v-window._border-radius.v-item-group.theme--dark.v-tabs-items{
@@ -28,12 +34,12 @@
 }
 
 .v-btn.warning {
-  background-color: #4a4a4a !important;
+  background-color: transparent !important;
   color: #ffffff !important;
-  border-bottom-color: #4a4a4a !important;
-  border-left-color: #4a4a4a !important;
-  border-right-color: #4a4a4a !important;
-  border-top-color: #4a4a4a !important;
+  border-bottom-color: transparent !important;
+  border-left-color: transparent !important;
+  border-right-color: transparent !important;
+  border-top-color: transparent !important;
 }
 
 
@@ -336,3 +342,10 @@ x-vue-echarts text {
 	border-bottom-right-radius: 15px !important;
 	border-top-right-radius: 15px !important;
 }
+
+.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small{
+  background-color: transparent !important;
+}
+/*.d-inline-block.mx-1.my-1.v-item-group.theme--dark{
+  background-color: #858585 !important;
+}*/
