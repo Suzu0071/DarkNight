@@ -13,9 +13,16 @@ OR
 
 Delete the .theme and paste this into an ssh dialog:
 
+*For Mainsail:*
 
 ```
 git clone https://github.com/Suzu0071/DarkNight ~/printer_data/config/.theme
+```
+
+*For Fluidd:*
+
+```
+git clone https://github.com/Suzu0071/DarkNight ~/printer_data/config/.fluidd-theme
 ```
 
 If you use this somewhere, cite it with my ugly face c:
