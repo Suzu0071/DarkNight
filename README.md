@@ -1,4 +1,4 @@
-# Klipper-DarkContrastTheme
+# Dark Night
 ![](./screenshot-1.png)
 
 ![](./screenshot-2.png)
