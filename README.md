@@ -1,5 +1,10 @@
 # Klipper-DarkContrastTheme
-----------------------------------------------------------
+![](./screenshot-1.png)
+
+![](./screenshot-2.png)
+
+![](./screenshot-3.png)
+_________________________________________________
 Install any theme from kiauh and swap the custom.css found in .theme
 
 OR
