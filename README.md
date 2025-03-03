@@ -5,6 +5,8 @@
 
 ![](./screenshot-3.png)
 _________________________________________________
+***Only tested on Mainsail***
+
 Install any theme from kiauh and swap the custom.css found in .theme
 
 OR
