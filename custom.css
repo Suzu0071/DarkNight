@@ -4,12 +4,15 @@
 	--color-3: #000000;
 	--color-4: #000000;
 	--color-5: #a2d2ff;
-    --color-6: #111111;
-    --color-7: #858585;
-    --color-8: #111111;
+   	 --color-6: #111111;
+    	--color-7: #858585;
+    	--color-8: #111111;
 	--v-error-base: var(--color-2);
 	--v-primary-base: var(--color-2);
 	overflow-x: hidden;
+}
+element {
+  --color-warning: #ffffff;
 }
 
 .v-application .primary{
