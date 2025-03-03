@@ -15,7 +15,7 @@ Delete the .theme and paste this into an ssh dialog:
 
 
 ```
-git clone https://github.com/Suzu0071/Klipper-DarkContrastTheme ~/printer_data/config/.theme
+git clone https://github.com/Suzu0071/DarkNight ~/printer_data/config/.theme
 ```
 
 If you use this somewhere, cite it with my ugly face c:
