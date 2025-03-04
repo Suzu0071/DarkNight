@@ -4,7 +4,7 @@
 	--color-3: #000000;
 	--color-4: #000000;
 	--color-5: #a2d2ff;
-   	 --color-6: #111111;
+    --color-6: #111111;
     --color-7: #858585;
     --color-8: #111111;
 	--v-error-base: var(--color-2);
@@ -13,17 +13,6 @@
 }
 element {
   --color-warning: #ffffff;
-}
-
-.v-data-table-header {
-	background: none !important;
-	background-color: none !important;
-	box-shadow: none !important;
-}
-
-.theme--dark.v-data-table.v-data-table--fixed-header {
-	background-color: transparent !important;
-	box-shadow: none !important;
 }
 
 .v-application .primary{
@@ -54,10 +43,10 @@ element {
 .v-btn.warning {
   background-color: transparent !important;
   color: #ffffff !important;
-  border-bottom-color: transparent !important;
+  border-bottom-color: rgba(255, 255, 255, 0.12) !important;
   border-left-color: transparent !important;
-  border-right-color: transparent !important;
-  border-top-color: transparent !important;
+  border-right-color: rgba(255, 255, 255, 0.12) !important;
+  border-top-color: rgba(255, 255, 255, 0.12) !important;
 }
 
 
