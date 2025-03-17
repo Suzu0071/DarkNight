@@ -16,7 +16,11 @@ element {
 }
 
 .v-application .primary{
-  background-color: transparent !important;
+  background-color: transparent;
+}
+
+.v-slider__track-fill {
+  background-color: #ffffff !important;
 }
 
 .font-weight-bold.btnHomeAxis.btnGroup.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default.primary{
