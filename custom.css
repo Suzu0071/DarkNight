@@ -357,3 +357,7 @@ x-vue-echarts text {
 .v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small{
   background-color: transparent !important;
 }
+
+.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default.primary {
+  background-color: transparent !important;
+}
