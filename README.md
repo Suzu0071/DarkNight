@@ -7,23 +7,8 @@
 _________________________________________________
 ***Fluidd has it's quirks, use at your own will***
 
-Install any theme from kiauh and swap the custom.css found in .theme
-
-OR
-
-Delete the .theme and paste this into an ssh dialog:
-
-*For Mainsail:*
-
-```
-git clone https://github.com/Suzu0071/DarkNight ~/printer_data/config/.theme
-```
-
-*For Fluidd:*
-
-```
-git clone https://github.com/Suzu0071/DarkNight ~/printer_data/config/.fluidd-theme
-```
++ Download `custom.css` and `Ubuntu-r.ttf`
++ Drag+Drop the 2 files into your `.theme` folder.
 
 If you use this somewhere, cite it with my ugly face c:
 
