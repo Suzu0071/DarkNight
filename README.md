@@ -4,13 +4,15 @@
 ![](./screenshot-2.png)
 
 ![](./screenshot-3.png)
-_________________________________________________
+
+___
+
 ***Fluidd has it's quirks, use at your own will***
 
-+ Download `custom.css` and `Ubuntu-r.ttf`
-+ Drag+Drop the 2 files into your `.theme` folder.
++ Download `custom.css`, `Ubuntu-r.ttf` and `FiraCode-Regular.ttf`.
++ Drag+Drop the 3 files into your `.theme` folder.
 
-If you use this somewhere, cite it with my ugly face c:
+___
 
 With love, from Suzuki
 

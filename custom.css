@@ -2,6 +2,11 @@
 	font-family: 'Ubuntu';
 	src: url('Ubuntu-R.ttf') format('truetype');
   }
+
+@font-face {
+  font-family: 'Fira-Code';
+  src: url('FiraCode-Regular.ttf') format('truetype');
+}
   
   :root {
 	  --color-1: #cdb4db;
@@ -16,6 +21,11 @@
 	  --v-primary-base: var(--color-2);
 	  overflow-x: hidden;
 	  --font: Ubuntu;
+  }
+
+  .ͼo.cm-editor .cm-scroller {
+    font-family: 'Fira Code';
+    font-feature-settings: common-ligatures;
   }
   
   .v-application{
